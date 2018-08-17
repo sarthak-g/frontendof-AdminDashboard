@@ -1,0 +1,36 @@
+#righty{
+    position:absolute;
+    right: 0;
+    
+}
+.leftdec{
+    list-style-type: none;
+    margin-top:40px;
+    font-weight: 600;
+    font-size:25px;
+}
+.col-lg-3 > ul > a{
+    text-decoration: none;
+    color:darkgrey;
+}
+.col-lg-3 > ul > a:hover{
+    color:white;
+}
+.imgadjust{
+    width:100%;
+    
+}
+.col-lg-9 > h1{
+    font-weight: 600;
+    font-size:50px;
+}
+.col-lg-3 > h2{
+    text-align: center;
+}
+.col-lg-3 > p{
+    color:black;
+    font-weight: 500
+}
+body{
+    background-color:dimgrey;
+}
